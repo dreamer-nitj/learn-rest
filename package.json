@@ -1,0 +1,23 @@
+{
+  "name": "learrest",
+  "version": "1.0.0",
+  "description": "learnrest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gauravarcnet/learn-rest.git"
+  },
+  "author": "gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gauravarcnet/learn-rest/issues"
+  },
+  "homepage": "https://github.com/Gauravarcnet/learn-rest#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.87.0"
+  }
+}
